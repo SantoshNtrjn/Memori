@@ -3,7 +3,7 @@ import { useState } from 'react'
 import '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';
 import { ChatContainer, MessageList, Message, MessageInput, TypingIndicator } from '@chatscope/chat-ui-kit-react';
 
-const API_KEY = "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"; // Enter your API key
+const API_KEY = "YOUR API KEY HERE"; // Enter your API key
 
 const systemMessage = { 
   "role": "system", "content": "restrict your service to the above options, even if I ask other things say \"sorry! I am a AI language model programmed to perform specific tasks as listed above.\", Only when I say okay you can answer my other questions."
