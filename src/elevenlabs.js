@@ -13,7 +13,7 @@ function TextToSpeech() {
         method: 'POST',
         headers: {
           'accept': 'audio/mpeg',
-          'xi-api-key': '4d89e7b7f11c5be25be9bf27dd73fbc6', // Enter ElevenLabs API Key
+          'xi-api-key': 'YOUR API KEY HERE', // Enter Your ElevenLabs API Key
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
