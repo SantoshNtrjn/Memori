@@ -1,4 +1,4 @@
-# MEMORI <sub>*AI-Powered-Note-Taking-Web-App*</sub> ![mit](https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App/assets/91065493/001c2a30-7423-40b2-b538-3b1bb13c7c11)
+# MEMORI <sub>*AI-Powered-Note-Taking-Web-App*</sub> ![mit](https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App/assets/91065493/f32eea09-db43-40a5-9387-3b590c304f52)
 ## About
 Memori is an AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3 & ElevenLabs Prime Voice API. It helps users to brainstorm, generate & access information real-time using ChatGPT integration. Further, The Eleven Labs API allows users to listen to their notes for a faster review & an Integrated 25-min pomodoro timer to boost users productivity.
 ### Features
@@ -8,8 +8,7 @@ Memori is an AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3 &
 * Implemented using react.js, Node.js , Eleven Labs Text-To-Speech API & OpenAI’s ChatGPT-3 API.
 
 ### Screenshots
-![Screen_mem](https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App/assets/91065493/b894f371-d93e-4892-be33-7beab32c4775)
-
+![Screen_mem](https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App/assets/91065493/4ec0ff7a-4e85-49c3-a891-dbc2670eb639)
 
 
 
