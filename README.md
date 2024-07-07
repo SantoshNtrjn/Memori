@@ -1,4 +1,5 @@
-# MEMORI <sub>*AI-Powered-Note-Taking-Web-App*</sub> ![mit](https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App/assets/91065493/f32eea09-db43-40a5-9387-3b590c304f52)
+# MEMORI ![mit](https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App/assets/91065493/f32eea09-db43-40a5-9387-3b590c304f52)
+### AI-Powered Note-Taking Web App
 ## About
 Memori is an AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3.5 Turbo & ElevenLabs Prime Voice API. It helps users to brainstorm, generate & access information real-time using ChatGPT integration. Further, The Eleven Labs API allows users to listen to their notes for a faster review & an Integrated 25-min pomodoro timer to boost users productivity.
 ### Features
@@ -28,4 +29,5 @@ Memori is an AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3.5
 
 Pull requests welcome :wink:.
 
-<sub>:bulb:NOTE: In order to use ChatGPT and ElevenLabs prime voice functionality, you might need to get your API-KEY from [OpenAI](https://platform.openai.com/account/api-keys) & [ElevenLabs](https://docs.elevenlabs.io/authentication/01-xi-api-key). Then, you may insert the respective keys at the code files (OpenAI-key --> chatbot.js & 11labs-key --> elevenlabs.js). Also, make sure to install all the dependencies and packages via npm.</sub>
+> [!NOTE]
+> In order to use ChatGPT and ElevenLabs prime voice functionality, you might need to get your API-KEY from [OpenAI](https://platform.openai.com/account/api-keys) & [ElevenLabs](https://docs.elevenlabs.io/authentication/01-xi-api-key). Then, you may insert the respective keys at the code files (OpenAI-key --> chatbot.js & 11labs-key --> elevenlabs.js). Also, make sure to install all the dependencies and packages via npm.
