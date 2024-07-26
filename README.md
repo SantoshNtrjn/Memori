@@ -1,6 +1,7 @@
 # MEMORI [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-### AI-Powered Note-Taking Web App
 ## Overview
+**Memori: AI-Powered Note-Taking Web App**
+
 Memori is an AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3.5 Turbo & ElevenLabs Prime Voice API. It helps users to brainstorm, generate & access information real-time using ChatGPT integration. Further, The Eleven Labs API allows users to listen to their notes for a faster review & an Integrated 25-min pomodoro timer to boost users productivity.
 ### Features
 * An AI-Powered Note-Taking Web Application that allows users to store & retrieve notes from Local Storage.
