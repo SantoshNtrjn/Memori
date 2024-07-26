@@ -21,7 +21,7 @@ Memori is an AI-Powered Note-Taking Web App developed using OpenAI's ChatGPT-3.5
 
 ### Development
 * Clone repo:
-> git clone https://github.com/Santosh-N/AI-Powered-Note-Taking-Web-App.git
+> git clone https://github.com/SantoshNtrjn/Memori.git
 * Install dependencies:
 > npm install -g npm <sub>*Install Node Package Manager*</sub>
 * Run development Server:
